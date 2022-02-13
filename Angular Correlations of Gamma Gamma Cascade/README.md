@@ -43,7 +43,9 @@
    * Hence on subtraction of the coincidence count from the universal counter, gives the true count. 
    * The error wass estimated using Poisson distribution.
 ###### 3.2 Fitting a curve to the obtained data:
-   * A random coincidence count N<sub>random</sub> =745 was obtained for a count duration of 400s at 180<sup>◦</sup> with the fast delay time set to 12ns.
-   * The same value of random coincidence was used  for all angles because random coincidences do not have any angular correlation.
-   * Hence on subtraction of the coincidence count from the universal counter, gives the true count. 
-   * The error wass estimated using Poisson distribution.
+   * The true coincidence data obtained is fitted using the method least squares with: W(θ) = W<sub>0</sub>(1 + A<sub>22</sub>(Q<sub>22</sub>)<sup>2</sup> cos<sup>2</sup>(θ) + A<sub>44</sub>(Q<sub>44</sub>)<sup>2</sup>cos<sup>4</sup>(θ); where W<sub>0</sub> is the scaling factor to the theoretical formula Q<sub>22</sub>=0.9057 and Q<sub>44</sub> =0.7114 are the solid angle corrections obtained for 2”×2” crystal.
+   * We fit the curve to the data taken at various angles for 200±1s and 400±1s respectively and respective values of A<sub>22</sub> and A<sub>44</sub> were obtained.
+###### 3.3 Fitting angular correlation functions for cascades with other spins:
+   * To remove the possibility of other decay schemes, a fitting for the 0-2-0 cascade was also done.
+   * We calculate the respective values of A<sub>22</sub> and A<sub>44</sub> from fit for 0-2-0 cascade.
+   * we then compare these values and the ones obtained from 4-2-0 cascade tothe theoretical values and conclude that the obtained values of A<sub>22</sub> and A<sub>44</sub> fit better to the prediction of 4-2-0 cascade.
