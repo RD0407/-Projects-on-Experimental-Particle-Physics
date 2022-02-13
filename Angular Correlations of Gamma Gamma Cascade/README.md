@@ -30,6 +30,20 @@
 ###### 2.1 Measurement of Angular Correlation:
    * One set of measurements were made with fine stepping of 30<sup>◦</sup> from 90<sup>◦</sup> to 270<sup>◦</sup> with a short count duration of 200±1s. This gives an idea of the overall angular dependence.
    * A second set of measurements were made at 90<sup>◦</sup> , 135<sup>◦</sup> , 165<sup>◦</sup> , 180<sup>◦</sup> , 195<sup>◦</sup> , 225<sup>◦</sup> , 235<sup>◦</sup> with a longer count duration of 400±1s. These data help us to precisely predict the correlation coefficients. At least four readings were necessary to obtain the three unknown parameters A,B and C with an error bar associated with the fit.
-
-
-
+###### 2.2 Measurement of stability of setup:
+   * Readings were taken at 180 ◦ at three different time intervals: at the beginning, in the middle and at the end of the measurements.
+   * The count duration of each measurement was 400±1s. 
+   * This was done to checkthe stability of the setup over the entire duration of the measurement process.
+###### 2.3 Measurement of random coincidence:
+   * Random coincidences do have an angular correlation in the pressence of misalignment. But in absence of misalignment they don’t have an angular correlation since the random sources of gamma rays causing the coincidence are isotropic in the Universe.
+##### 3. Analysis:
+###### 3.1 Subtracting random coincidence:
+   * A random coincidence count N<sub>random</sub> =745 was obtained for a count duration of 400s at 180<sup>◦</sup> with the fast delay time set to 12ns.
+   * The same value of random coincidence was used  for all angles because random coincidences do not have any angular correlation.
+   * Hence on subtraction of the coincidence count from the universal counter, gives the true count. 
+   * The error wass estimated using Poisson distribution.
+###### 3.2 Fitting a curve to the obtained data:
+   * A random coincidence count N<sub>random</sub> =745 was obtained for a count duration of 400s at 180<sup>◦</sup> with the fast delay time set to 12ns.
+   * The same value of random coincidence was used  for all angles because random coincidences do not have any angular correlation.
+   * Hence on subtraction of the coincidence count from the universal counter, gives the true count. 
+   * The error wass estimated using Poisson distribution.
